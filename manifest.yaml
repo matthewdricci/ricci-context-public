@@ -1,0 +1,20 @@
+schema_version: 1
+title: "Ricci Context — Public"
+status: local-unpublished-draft
+purpose: >-
+  Matt Ricci's public, evolving context repository for humans and agents who
+  collaborate with him, grounded in verbatim authored language and explicit provenance.
+entrypoints:
+  human: README.md
+  collaborator: working-with-matt.md
+  agent: agent-context/context.md
+  shape_up: shape-up.md
+domains:
+  - product
+  - communication
+  - ai
+  - tools-and-frameworks
+sources:
+  - books
+  - podcasts
+source_policy: PUBLIC-CONTENT-POLICY.md
