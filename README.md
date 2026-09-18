@@ -4,7 +4,7 @@ Matt Ricci's public, evolving context repository for humans and agents who colla
 
 ## Status
 
-This repository is a **local, unpublished draft**. Nothing here has been pushed to GitHub.
+This repository is public at [github.com/matthewdricci/ricci-context-public](https://github.com/matthewdricci/ricci-context-public). It is an evolving canon: additions should preserve the authorship, provenance, copyright, and privacy boundaries below.
 
 ## Authorship contract
 

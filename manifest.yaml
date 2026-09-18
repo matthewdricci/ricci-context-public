@@ -1,6 +1,6 @@
 schema_version: 1
 title: "Ricci Context — Public"
-status: local-unpublished-draft
+status: published-public
 purpose: >-
   Matt Ricci's public, evolving context repository for humans and agents who
   collaborate with him, grounded in verbatim authored language and explicit provenance.
