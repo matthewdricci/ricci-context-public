@@ -10,6 +10,7 @@ This section is an index. Descriptions are intentionally not filled with assista
 | Shape Up | [Ryan Singer / 37signals](https://basecamp.com/shapeup) | [Matt's Shape Up convictions and pitch format](../shape-up.md) |
 | Traction / EOS | Gino Wickman, *Traction* | To be added in Matt's words. |
 | How to Prewire a Meeting | [Manager Tools](https://www.manager-tools.com/2017/12/how-prewire-meeting-hof-2017) | To be added in Matt's words. |
+| Chart storytelling | [Instagram reel by @levifikri.io](https://www.instagram.com/reel/Dd_zVLNI5-k/) | [Harness rules for agents](chart-storytelling-rules.md) — agents apply these as enforceable rules when designing charts, dashboards, or data slides. |
 
 ## Boundary
 
