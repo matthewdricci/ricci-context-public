@@ -23,6 +23,7 @@ Matt-authored content is available under CC BY 4.0. Scripts, hooks, and schemas 
 ## Start here
 
 - [Working with Matt](working-with-matt.md)
+- [Matt's Manager Tools MTDISC profile](mtdisc.md)
 - [Product principles](principles/product.md)
 - [Communication principles](principles/communication.md)
 - [AI principles](principles/ai.md)
