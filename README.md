@@ -30,6 +30,7 @@ Matt-authored content is available under CC BY 4.0. Scripts, hooks, and schemas 
 - [Shape Up](shape-up.md)
 - [Tools and frameworks](tools-and-frameworks/README.md)
 - [Chart storytelling rules](tools-and-frameworks/chart-storytelling-rules.md)
+- [Company brain: data-ladder rules](tools-and-frameworks/company-brain-data-ladder-rules.md)
 - [Top-tier books](sources/books/README.md)
 - [Podcasts to retain](sources/podcasts/README.md)
 - [Agent context](agent-context/context.md)

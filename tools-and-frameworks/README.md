@@ -11,6 +11,7 @@ This section is an index. Descriptions are intentionally not filled with assista
 | Traction / EOS | Gino Wickman, *Traction* | To be added in Matt's words. |
 | How to Prewire a Meeting | [Manager Tools](https://www.manager-tools.com/2017/12/how-prewire-meeting-hof-2017) | To be added in Matt's words. |
 | Chart storytelling | [Instagram reel by @levifikri.io](https://www.instagram.com/reel/Dd_zVLNI5-k/) | [Harness rules for agents](chart-storytelling-rules.md) — agents apply these as enforceable rules when designing charts, dashboards, or data slides. |
+| Company brain: data ladder | [Lenny's: Build your own company brain](https://www.lennysnewsletter.com/p/build-your-own-company-brain-the) | [Harness rules for agents](company-brain-data-ladder-rules.md) — Matt's verbatim recollection plus enforceable rules for how agents reach company data (orientation → production reports → golden tables → wild west). |
 
 ## Boundary
 
