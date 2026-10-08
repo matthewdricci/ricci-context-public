@@ -1,6 +1,12 @@
 # Working with Matt
 
-> **Provenance:** The words below are copied verbatim from Matt's *Instruction Manual for Matt Ricci* and the bonus section of his published *Matt's Product Principles*. Employer-specific procedures, schedules, and private contact details are intentionally omitted. This note adds only headings, source labels, and this provenance statement.
+> **Provenance:** The words below are copied verbatim from Matt's *Instruction Manual for Matt Ricci* and the bonus section of his published *Matt's Product Principles*. Employer-specific procedures, schedules, and private contact details are intentionally omitted. This note adds only headings, source labels, this provenance statement, and the one-line factual MTDISC result under "High D / High I" (sourced in [mtdisc.md](mtdisc.md)).
+
+## High D / High I
+
+Matt's December 2022 Manager Tools MTDISC result is **High D / High I**.
+
+For the assessment provenance, see [Matt's Manager Tools MTDISC profile](mtdisc.md).
 
 I love the concept of a personal README, which you can read about here:
 [12 Manager READMEs from Silicon Valley's Top Tech Companies](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
